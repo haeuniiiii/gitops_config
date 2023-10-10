@@ -9,3 +9,6 @@ For managing IaC(terraform, AWS, GCP), K8s manifest files
 * kubernetes manifest files
 * divided by namespace
 * manage `.yaml` files for deploying k8s cluster
+
+📂 Shell Script
+* for automation of kubernetes cluster
